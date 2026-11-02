@@ -1,43 +1,39 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     ██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
-     ██╔════╝██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗████╗ ████║
-     ███████╗███████║█████╔╝ ███████╗███████║███████║██╔████╔██║
-     ╚════██║██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║╚██╔╝██║
-     ███████║██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║ ╚═╝ ██║
-     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+     SAKSHAM — GitHub Profile README
+     Designed to feel like scrolling through a personal website
      ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 1                          │
+     │                        H E R O                                  │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
 <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        HERO SECTION                             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:111111,40:f97316,70:fb923c,100:0a0a0a&height=250&section=header&text=&fontSize=1" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:111111,40:f97316,70:fb923c,100:0a0a0a&height=230&section=header&text=SAKSHAM&fontSize=76&fontColor=ffffff&fontAlignY=33&animation=fadeIn&desc=developer%20%E2%80%A2%20designer%20%E2%80%A2%20builder&descSize=17&descColor=fdba74&descAlignY=56" alt="Header" />
+<br/><br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=500&height=60&lines=SAKSHAM" alt="Name" />
 
 <br/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&repeat=true&width=520&height=50&lines=Computer+Science+Student;Full+Stack+Developer;AI+Explorer;Creative+Builder;Turning+Ideas+Into+Products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=FB923C&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Computer+Science+Student;Full+Stack+Developer;AI+Explorer;Creative+Builder;Turning+Ideas+Into+Products" alt="Roles" />
 
 <br/><br/>
 
-<!-- Profile Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=saksha-mmm&style=for-the-badge&color=f97316&label=VISITORS" alt="Profile Views" />
-&nbsp;&nbsp;
-<a href="https://github.com/saksha-mmm?tab=followers">
-  <img src="https://img.shields.io/github/followers/saksha-mmm?style=for-the-badge&color=f97316&labelColor=111111&logo=github&logoColor=white" alt="Followers" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/saksha-mmm?tab=stars">
-  <img src="https://img.shields.io/github/stars/saksha-mmm?style=for-the-badge&color=fb923c&labelColor=111111&logo=github&logoColor=white&label=Stars" alt="Stars" />
-</a>
+<p>
+  <sub>
+    first-year cs student · builder · designer · maker of things that probably don't exist yet
+  </sub>
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Quick Links -->
 <a href="https://github.com/saksha-mmm"><img src="https://img.shields.io/badge/GitHub-saksha--mmm-f97316?style=flat-square&logo=github&logoColor=white&labelColor=111111" /></a>
 &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111" /></a>
@@ -48,25 +44,26 @@
 &nbsp;
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-ea580c?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saksha-mmm&style=flat-square&color=f97316&label=visitors" alt="Views" />
+
+<br/><br/><br/><br/>
+
 </div>
 
-<br/>
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 2                          │
+     │                     A B O U T   M E                             │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=ABOUT%20ME&fontSize=14&fontColor=0a0a0a&fontAlignY=50&textBg=false" />
 
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                       ABOUT ME                                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="28" />
-  &nbsp; who am i?
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 <table>
@@ -76,7 +73,9 @@
 ```js
 const saksham = {
   education: "CS @ Newton School of Technology",
-  role: "First-Year Student & Builder",
+  year: "First Year",
+  campus: "Rishihood University",
+  
   loves: [
     "Full Stack Dev",
     "Artificial Intelligence",
@@ -84,8 +83,9 @@ const saksham = {
     "3D Experiments",
     "Hackathons"
   ],
+  
   philosophy: "Ship fast, learn faster",
-  currentStatus: "Probably building something rn"
+  status: "Probably building something rn"
 };
 ```
 
@@ -94,11 +94,21 @@ const saksham = {
 
 <br/>
 
-**Hey, I'm Saksham** — a first-year CS student who treats every project like a startup and every hackathon like a creative sprint.
+**Hey, I'm Saksham.**
+
+I'm a first-year CS student who treats every project like a startup and every hackathon like a creative sprint.
 
 I build web apps, explore AI, design interfaces, and occasionally make things in 3D just because I can. I'm the kind of person who'll start a side project at midnight and call it *"research."*
 
-Currently studying at **Newton School of Technology** *(Rishihood University)* — turning caffeine into code and ideas into products.
+When I'm not coding, I'm probably:
+
+🎨 &nbsp; Designing something in Figma
+<br/>
+💡 &nbsp; Sketching startup ideas on napkins
+<br/>
+🏗️ &nbsp; Breaking things to learn how they work
+<br/>
+🧊 &nbsp; Experimenting with 3D design
 
 <br/>
 
@@ -107,372 +117,496 @@ Currently studying at **Newton School of Technology** *(Rishihood University)* �
 </table>
 </div>
 
-<br/>
+<br/><br/><br/><br/>
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 3                          │
+     │                    T E C H   S T A C K                          │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=TECH%20STACK&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        TECH STACK                               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />
-  &nbsp; tech stack
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
-<h4>languages</h4>
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<h4>⌨️ &nbsp; languages</h4>
+<br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript&theme=dark&perline=2" />
 </a>
-
 <br/><br/>
-
-<h4>tools & platforms</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=2" />
 </a>
-
 <br/><br/>
-
-<h4>design</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=1" />
 </a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX-Design-f97316?style=for-the-badge&labelColor=111111" />
-&nbsp;
-<img src="https://img.shields.io/badge/Graphic-Design-fb923c?style=for-the-badge&labelColor=111111" />
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h4>🛠️ &nbsp; tools</h4>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" />
+</a>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=1" />
+</a>
+<br/><br/><br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h4>🎨 &nbsp; design</h4>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/UI%2FUX-f97316?style=flat-square" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Graphic_Design-fb923c?style=flat-square" />
+<br/><br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Expandable learning section -->
 <details>
-<summary align="center"><b>📈 &nbsp; Learning Progress</b></summary>
+<summary><p align="center"><b>📈 &nbsp; learning progress — click to expand</b></p></summary>
 <br/>
 <div align="center">
 
 | Track | Progress | Status |
 |:---|:---|:---:|
-| Python & AI | `████████████████████░░░░░` | 🔥 Active |
-| Full Stack Dev | `██████████████████░░░░░░░` | 🔥 Active |
-| Problem Solving | `████████████████░░░░░░░░░` | 📈 Growing |
-| Software Dev | `██████████████░░░░░░░░░░░` | 🌱 Exploring |
-| Creative Web | `████████████░░░░░░░░░░░░░` | 🌱 Exploring |
+| Python & AI | `████████████████████░░░░░` 84% | 🔥 Active |
+| Full Stack Dev | `██████████████████░░░░░░░` 72% | 🔥 Active |
+| Problem Solving | `████████████████░░░░░░░░░` 64% | 📈 Growing |
+| Software Dev | `██████████████░░░░░░░░░░░` 56% | 🌱 Exploring |
+| Creative Web | `████████████░░░░░░░░░░░░░` 48% | 🌱 Exploring |
 
 </div>
+<br/>
 </details>
 
-<br/>
+<br/><br/><br/>
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 4                          │
+     │                    P R O J E C T S                              │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=FEATURED%20PROJECTS&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     FEATURED PROJECTS                           -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" />
-  &nbsp; featured projects
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
-<!-- Row 1 -->
+<!-- ——— Project 01: MedVault ——— -->
+
 <table>
 <tr>
-
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://img.shields.io/badge/01-f97316?style=flat-square&labelColor=f97316" />
-  &nbsp; MedVault
-</h3>
-<p align="center">
-  <sub>Secure Digital Medical Records Platform</sub>
-</p>
+<td align="center">
 
 <br/>
 
-<p align="center">
-A secure digital medical records and verification platform featuring digital medical IDs, identity verification, doctor dashboards, and encrypted record management.
-</p>
+<img src="https://img.shields.io/badge/%20%20%2001%20%20%20-f97316?style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/saksha-mmm/MedVault"><img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Uncomment when live: <a href="#"><img src="https://img.shields.io/badge/Live_Demo-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-</p>
-</td>
+### 🏥 &nbsp; MedVault
 
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://img.shields.io/badge/02-fb923c?style=flat-square&labelColor=fb923c" />
-  &nbsp; TrustNet
-</h3>
-<p align="center">
-  <sub>Trust-Based Digital Ecosystem</sub>
-</p>
+**Secure Digital Medical Records Platform**
 
 <br/>
 
-<p align="center">
-An innovative project focused on creating a trust-based digital ecosystem — building transparent and reliable interactions for the modern web.
-</p>
+A secure digital medical records and verification platform featuring
+<br/>
+digital medical IDs, identity verification, doctor dashboards,
+<br/>
+and end-to-end encrypted record management.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/saksha-mmm/TrustNet"><img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Uncomment when live: <a href="#"><img src="https://img.shields.io/badge/Live_Demo-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/saksha-mmm/MedVault"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
+<!-- <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+
+<br/><br/>
+
 </td>
-
 </tr>
 </table>
 
-<!-- Row 2 -->
+<br/><br/>
+
+<!-- ——— Project 02: TrustNet ——— -->
+
 <table>
 <tr>
-
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://img.shields.io/badge/03-fdba74?style=flat-square&labelColor=fdba74" />
-  &nbsp; Food2Fuel
-</h3>
-<p align="center">
-  <sub>Food Waste → Sustainable Energy</sub>
-</p>
+<td align="center">
 
 <br/>
 
-<p align="center">
-A startup prototype focused on converting food waste into useful resources and sustainable energy. Built end-to-end as a full stack developer with a mission to reduce waste.
-</p>
+<img src="https://img.shields.io/badge/%20%20%2002%20%20%20-fb923c?style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-ea580c?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/saksha-mmm/Food2Fuel"><img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Uncomment when live: <a href="#"><img src="https://img.shields.io/badge/Live_Demo-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-</p>
-</td>
+### 🌐 &nbsp; TrustNet
 
-<td width="50%" valign="top">
-<h3 align="center">
-  <img src="https://img.shields.io/badge/04-ea580c?style=flat-square&labelColor=ea580c" />
-  &nbsp; KaamBook
-</h3>
-<p align="center">
-  <sub>Construction Workforce Management</sub>
-</p>
+**Trust-Based Digital Ecosystem**
 
 <br/>
 
-<p align="center">
-A startup concept focused on streamlining workforce and project management in the construction industry — digitizing workflows for better efficiency and accountability.
-</p>
+An innovative project focused on creating a trust-based digital ecosystem —
+<br/>
+building transparent and reliable interactions for the modern web.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-ea580c?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/saksha-mmm/KaamBook"><img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Uncomment when live: <a href="#"><img src="https://img.shields.io/badge/Live_Demo-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/saksha-mmm/TrustNet"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
+<!-- <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+
+<br/><br/>
+
 </td>
+</tr>
+</table>
 
+<br/><br/>
+
+<!-- ——— Project 03: Food2Fuel ——— -->
+
+<table>
+<tr>
+<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%20%20%2003%20%20%20-fdba74?style=for-the-badge" />
+
+<br/><br/>
+
+### ♻️ &nbsp; Food2Fuel
+
+**Food Waste → Sustainable Energy**
+
+<br/>
+
+A startup prototype focused on converting food waste into useful
+<br/>
+resources and sustainable energy. Built end-to-end as a full stack
+<br/>
+developer with a mission to reduce waste.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Full_Stack-ea580c?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/saksha-mmm/Food2Fuel"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
+<!-- <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ——— Project 04: KaamBook ——— -->
+
+<table>
+<tr>
+<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%20%20%2004%20%20%20-ea580c?style=for-the-badge" />
+
+<br/><br/>
+
+### 🏗️ &nbsp; KaamBook
+
+**Construction Workforce Management**
+
+<br/>
+
+A startup concept focused on streamlining workforce and project
+<br/>
+management in the construction industry — digitizing workflows
+<br/>
+for better efficiency and accountability.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Full_Stack-ea580c?style=flat-square" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/saksha-mmm/KaamBook"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;
+<!-- <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-f97316?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+
+<br/><br/>
+
+</td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 5                          │
+     │                   A N A L Y T I C S                             │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=GITHUB%20ANALYTICS&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     GITHUB ANALYTICS                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />
-  &nbsp; github analytics
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
-<!-- Stats + Languages -->
+<!-- Stats Card -->
 <a href="https://github.com/saksha-mmm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saksha-mmm&show_icons=true&bg_color=0a0a0a&title_color=f97316&icon_color=fb923c&text_color=d4d4d4&border_color=262626&hide_border=false&count_private=true&include_all_commits=true" alt="Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=saksha-mmm&show_icons=true&bg_color=0a0a0a&title_color=f97316&icon_color=fb923c&text_color=d4d4d4&border_color=262626&hide_border=false&count_private=true&include_all_commits=true" alt="Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/saksha-mmm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksha-mmm&layout=compact&bg_color=0a0a0a&title_color=f97316&text_color=d4d4d4&border_color=262626&hide_border=false&langs_count=8" alt="Languages" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksha-mmm&layout=compact&bg_color=0a0a0a&title_color=f97316&text_color=d4d4d4&border_color=262626&hide_border=false&langs_count=8" alt="Languages" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/saksha-mmm">
-  <img src="https://streak-stats.demolab.com?user=saksha-mmm&background=0a0a0a&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=d4d4d4&sideNums=d4d4d4&currStreakNum=d4d4d4&dates=525252&border=262626" alt="Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=saksha-mmm&background=0a0a0a&ring=f97316&fire=fb923c&currStreakLabel=f97316&sideLabels=d4d4d4&sideNums=d4d4d4&currStreakNum=d4d4d4&dates=525252&border=262626" alt="Streak" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Trophies -->
 <a href="https://github.com/saksha-mmm">
-  <img src="https://github-profile-trophy.vercel.app/?username=saksha-mmm&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&title_color=f97316" alt="Trophies" />
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=saksha-mmm&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/saksha-mmm">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saksha-mmm&bg_color=0a0a0a&color=f97316&line=fb923c&point=fdba74&area=true&area_color=f97316&hide_border=true" alt="Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saksha-mmm&bg_color=0a0a0a&color=f97316&line=fb923c&point=fdba74&area=true&area_color=f97316&hide_border=true" alt="Activity Graph" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- Snake Animation -->
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksha-mmm/saksha-mmm/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksha-mmm/saksha-mmm/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/saksha-mmm/saksha-mmm/output/github-snake.svg" width="95%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/saksha-mmm/saksha-mmm/output/github-snake.svg" width="90%" />
 </picture>
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 6                          │
+     │                   E X P L O R I N G                             │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=CURRENTLY%20EXPLORING&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                   CURRENTLY EXPLORING                           -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="28" />
-  &nbsp; currently exploring
-</h2>
-
-<br/>
-
-<div align="center">
-
-```
- 🐍  Python Programming           ━━━━━━━━━━━  Deep diving into advanced concepts
- 🤖  Artificial Intelligence       ━━━━━━━━━━━  Building smarter systems
- 🌐  Full Stack Development        ━━━━━━━━━━━  Frontend ↔ Backend mastery
- 🧩  Problem Solving               ━━━━━━━━━━━  DSA & algorithmic thinking
- ⚙️  Software Development          ━━━━━━━━━━━  Clean code & architecture
- ✨  Creative Web Experiences      ━━━━━━━━━━━  Making the web more beautiful
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                      BEYOND CODE                                -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="28" />
-  &nbsp; beyond code
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="150">
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="44" />
+<td align="center" width="33%">
 <br/><br/>
-<b>Graphic</b><br/><sub>Design</sub>
+<img src="https://img.shields.io/badge/🐍-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Python</b>
+<br/>
+<sub>Advanced concepts & automation</sub>
+<br/><br/><br/>
+</td>
+<td align="center" width="33%">
+<br/><br/>
+<img src="https://img.shields.io/badge/🤖-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Artificial Intelligence</b>
+<br/>
+<sub>Building smarter systems</sub>
+<br/><br/><br/>
+</td>
+<td align="center" width="33%">
+<br/><br/>
+<img src="https://img.shields.io/badge/🌐-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Full Stack Dev</b>
+<br/>
+<sub>Frontend ↔ Backend mastery</sub>
+<br/><br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/><br/>
+<img src="https://img.shields.io/badge/🧩-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Problem Solving</b>
+<br/>
+<sub>DSA & algorithmic thinking</sub>
+<br/><br/><br/>
+</td>
+<td align="center" width="33%">
+<br/><br/>
+<img src="https://img.shields.io/badge/⚙️-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Software Dev</b>
+<br/>
+<sub>Clean code & architecture</sub>
+<br/><br/><br/>
+</td>
+<td align="center" width="33%">
+<br/><br/>
+<img src="https://img.shields.io/badge/✨-0a0a0a?style=flat-square" height="40" />
+<br/><br/>
+<b>Creative Web</b>
+<br/>
+<sub>Making the web beautiful</sub>
+<br/><br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/><br/>
+
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 7                          │
+     │                  B E Y O N D   C O D E                          │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:fb923c,75:1a1a1a,100:0a0a0a&height=45&text=BEYOND%20CODE&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
+
+<br/><br/><br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="16%">
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="50" />
+<br/><br/>
+<b>Graphic</b>
+<br/>
+<sub>Design</sub>
 <br/><br/>
 </td>
-<td align="center" width="150">
+<td align="center" width="16%">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="44" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="50" />
 <br/><br/>
-<b>3D</b><br/><sub>Experiments</sub>
+<b>3D</b>
+<br/>
+<sub>Experiments</sub>
 <br/><br/>
 </td>
-<td align="center" width="150">
+<td align="center" width="16%">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="44" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="50" />
 <br/><br/>
-<b>Hackathon</b><br/><sub>Warrior</sub>
+<b>Hackathon</b>
+<br/>
+<sub>Warrior</sub>
 <br/><br/>
 </td>
-<td align="center" width="150">
+<td align="center" width="16%">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="44" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" />
 <br/><br/>
-<b>Startup</b><br/><sub>Ideas</sub>
+<b>Startup</b>
+<br/>
+<sub>Ideas</sub>
 <br/><br/>
 </td>
-<td align="center" width="150">
+<td align="center" width="16%">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="44" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="50" />
 <br/><br/>
-<b>Creative</b><br/><sub>Projects</sub>
+<b>Creative</b>
+<br/>
+<sub>Projects</sub>
 <br/><br/>
 </td>
-<td align="center" width="150">
+<td align="center" width="16%">
 <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="44" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="50" />
 <br/><br/>
-<b>Tech</b><br/><sub>Explorer</sub>
+<b>Tech</b>
+<br/>
+<sub>Explorer</sub>
 <br/><br/>
 </td>
 </tr>
@@ -485,63 +619,66 @@ A startup concept focused on streamlining workforce and project management in th
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
-<!-- ═══════════════════ SECTION DIVIDER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=2" width="100%" />
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                    S E C T I O N   0 8                          │
+     │                    C O N N E C T                                │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=45&text=LET'S%20CONNECT&fontSize=14&fontColor=0a0a0a&fontAlignY=50" />
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    CONNECT WITH ME                              -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" />
-  &nbsp; let's connect
-</h2>
-
-<br/>
+<br/><br/><br/>
 
 <div align="center">
 
 <a href="https://github.com/saksha-mmm">
   <img src="https://img.shields.io/badge/GitHub-saksha--mmm-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
 </a>
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="#">
   <img src="https://img.shields.io/badge/Instagram-Follow-fb923c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://saksham-got-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-fdba74?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hi-ea580c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collabs%20%E2%80%A2%20Hackathons%20%E2%80%A2%20Freelance-f97316?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborations%20•%20Hackathons%20•%20Freelance-f97316?style=for-the-badge&labelColor=111111" />
 
 </div>
 
-<br/>
+<br/><br/><br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        FOOTER                                   -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- 
+     ┌─────────────────────────────────────────────────────────────────┐
+     │                                                                 │
+     │                       F O O T E R                               │
+     │                                                                 │
+     └─────────────────────────────────────────────────────────────────┘
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,25:1a1a1a,50:f97316,75:1a1a1a,100:0a0a0a&height=3" />
+
+<br/><br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:f97316,100:111111&height=1" width="100%" />
-
-<br/>
 
 ```
 ⚡ building, breaking, learning, and building again. ⚡
@@ -553,18 +690,20 @@ A startup concept focused on streamlining workforce and project management in th
 
 **if you like what you see, drop a ⭐ — it fuels the next midnight build session.**
 
-<br/>
-
-made with 🧡 and mass of caffeine by **saksham**
-
 </sub>
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:111111,40:f97316,70:fb923c,100:0a0a0a&height=120&section=footer" />
+<sub>
+  made with 🧡 and mass of caffeine by <b>saksham</b>
+</sub>
+
+<br/><br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:111111,40:f97316,70:fb923c,100:0a0a0a&height=150&section=footer" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     thanks for scrolling this far! 🚀
+     thanks for scrolling all the way down 🚀
      ═══════════════════════════════════════════════════════════════════════════ -->
